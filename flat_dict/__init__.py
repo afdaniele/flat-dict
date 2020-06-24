@@ -1,7 +1,7 @@
 from .flat_dict import encode, decode
 from .exceptions import InvalidKeyError, FormatError
 
-__version__ = '0.0.0'
+__version__ = '0.1.0'
 
 
 """
