@@ -1,2 +1,3 @@
-# flat-json
-Python library that transforms a nested JSON object into a flat (key, value) set, and back.
+# flat-dict
+
+Python library that transforms nested Python dictionaries into flat (key, value) sets, and back.
