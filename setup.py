@@ -34,10 +34,9 @@ setup(
     author='Andrea F. Daniele',
     author_email='afdaniele@ttic.edu',
     url='https://github.com/afdaniele/',
-    download_url='https://github.com/afdaniele/flat-dict/tarball/{}'.format(lib_version),
     zip_safe=False,
     include_package_data=True,
-    keywords=['flat', 'dict', 'list', 'dict', 'x-www-form-urlencoded'],
+    keywords=['flat', 'dict', 'list', 'x-www-form-urlencoded'],
     install_requires=[],
     classifiers=[
         'Development Status :: 3 - Alpha',
